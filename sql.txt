@@ -1,0 +1,12 @@
+entekhab * az D ;
+ezafe be D ( A , B , C) arzesh_ha ( L , M , C) ;
+brooz D tanzim ( A ) = ( J ) jayi_ke ( C = M ) ;
+entekhab B az D jayi_ke ( C = G ) ; 
+hazf az D ;
+
+
+SELECT * FROM D ;
+INSERT INTO D ( A , B , C) VALUES ( L , M , C) ;
+UPDATE D SET ( A ) = ( J ) WHERE ( C = M ) ;
+SELECT B FROM D WHERE ( C = G ) ;
+DELETE FROM D ;
